@@ -150,29 +150,41 @@ Servidores empresariales, migraciones desde CentOS, infraestructura crítica.(/b
 #### INstalación nmap:
 + Verificación de instalación (/bir)
 <img width="812" height="75" alt="image" src="https://github.com/user-attachments/assets/cf7b498a-191c-4d58-8382-9e6a5935d29c" />
+
 + Escanear un solo Host:(/bir)
 <img width="811" height="94" alt="image" src="https://github.com/user-attachments/assets/3c18d14a-4aaf-44fc-aedf-448a4dc0818d" />
+
 + Escanear un rango de ip(/bir)
 <img width="811" height="73" alt="image" src="https://github.com/user-attachments/assets/84f19e0d-3459-4cdd-a1ac-26ef5301d268" />
+
 + Escanear una subred completa(/bir)
 <img width="811" height="73" alt="image" src="https://github.com/user-attachments/assets/28c98b02-13f8-45b2-806e-ed661e1538cf" />
+
 + Escanear todos los dispositivos activos en una red local(/bir)
 <img width="811" height="73" alt="image" src="https://github.com/user-attachments/assets/bee5c516-045e-4370-bf0d-012cd6c94ecf" />
+
 + Detectar qué servicios están corriendo en un servidor(7bir)
 <img width="811" height="92" alt="image" src="https://github.com/user-attachments/assets/4b3845bf-381e-4eb0-a1fc-c0dd6cfbc126" />
+
 + Escanear puertos específicos(/bir)
 <img width="811" height="92" alt="image" src="https://github.com/user-attachments/assets/9efcc3c5-95ac-45cb-a122-070021f196fb" />
+
 + Escanear todos los puertos (0-65535)(/bir)
 <img width="811" height="92" alt="image" src="https://github.com/user-attachments/assets/63ecffed-5c57-4f5e-bed2-8acdeb3f1d2e" />
+
 + Escaneo rápido de puertos abiertos(/bir)
 <img width="811" height="92" alt="image" src="https://github.com/user-attachments/assets/455c7a6c-fe91-4487-b09b-8f3b2f50b090" />
+
 + Detección de Sistema Operativo y Servicios(/bir)
 <img width="811" height="92" alt="image" src="https://github.com/user-attachments/assets/7ae39af7-3ccc-4e40-a0af-97c3fb44e13d" />
+
 + Detección de versiones de servicios(/bir)
 <img width="831" height="315" alt="image" src="https://github.com/user-attachments/assets/38e4d9f2-8443-4189-b068-6b830cfb7eaa" />
+
 #### Referencias
-+ Kurtzer, G. (2020). Rocky Linux: The official successor to CentOS. Rocky Linux Foundation.
-+ Murdock, I. (1994). The Debian Linux Distribution. Debian Project.
-+ Red Hat. (2003). Fedora Project Announcement. Red Hat, Inc.
-+ Torvalds, L. (2001). Just for fun: The story of an accidental revolutionary. HarperBusiness.
-+ Vinet, J. (2002). Arch Linux: A Simple, Lightweight Distribution. Arch Linux Project.
+
++ Kurtzer, G. (2020). Rocky Linux: The official successor to CentOS. Rocky Linux Foundation. (/bir)
++ Murdock, I. (1994). The Debian Linux Distribution. Debian Project.(/bir)
++ Red Hat. (2003). Fedora Project Announcement. Red Hat, Inc.(/bir)
++ Torvalds, L. (2001). Just for fun: The story of an accidental revolutionary. HarperBusiness.(/bir)
++ Vinet, J. (2002). Arch Linux: A Simple, Lightweight Distribution. Arch Linux Project.(/bir)
